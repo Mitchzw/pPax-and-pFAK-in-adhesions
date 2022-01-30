@@ -6,6 +6,6 @@ After publishing a final manuscript in a print journal, code will be uploaded to
 
 Part of the content of this repository is a matlab workflow (folder Multi_image...) developed by Artiom Skripka (twitter @a_skripka). This code allowes to detect intensity maxima of labeled proteins within focal adhesions and additional characterization of them. 
 
-Several other, short code pieces deal with getting data from image analysis in Fiji/ImageJ in an automated fashion and to make them accessible for further analysis. 
+File "Notebook_NN-Analysis" is a file for Jupyter Notebook file. It also contains code for an ImageJ macro that can be used to get NN data from image files. The rest of the code deals with files obtained with this macro and makes the code accessible for further analysis and for plotting.
 
-Michael Bachmann, 27/01/2022
+Michael Bachmann, 30/01/2022
