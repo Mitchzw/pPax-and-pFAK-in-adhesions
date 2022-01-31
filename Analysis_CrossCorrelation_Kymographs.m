@@ -6,7 +6,7 @@ clear all;
 
 %file_name='Path_1_kymograph.csv';
 
-jj=8;  % correlation step e.g. jj=5, a correlation of 1 with 6 will take place, 2 with 7 etc.
+jj=5;  % correlation step e.g. jj=5, a correlation of 1 with 6 will take place, 2 with 7 etc.
 % 1 is the lowest value for cross corelation. 0 will return the
 % autocorelation of each time slice 
 
